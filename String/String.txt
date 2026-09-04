@@ -1,0 +1,7 @@
+String --> String is a sequence of character and it's immutable.
+
+Example:
+        name = "kanhaiya"
+        print(name)
+    Output:
+            kanhaiya
