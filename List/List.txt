@@ -1,0 +1,8 @@
+List -->  1. List is the collection of different Datatypes.
+          2. List is mutable Which means Can be change after creation.
+          3. Declare a data inside Square Brackets [ ].
+
+    Example:
+            1. fruits = ['Mango','Apple','Orange']
+            2. numbers = [10,20,30,40,50]
+            3. num_fruits = [1,'Mango',2,'Apple',3,'Orange']
