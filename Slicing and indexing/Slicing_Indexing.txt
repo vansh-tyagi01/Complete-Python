@@ -1,0 +1,31 @@
+Slicing --> 1. Slicing is the accessing part of String.
+            2. Which means access multiple character in given String.
+            3. Index start with 0.
+            4. And Access sequence of words using indexing.
+            5. Negative Indexing is also Allowed.
+
+    Syntax:
+            name[start : stop : step]
+
+               * Start --> Start is include
+               * Stop --> Stop is not include
+
+    Example:                         0  1  2  3  4  5  6  7
+             name = 'kanhaiya'  -->  k  a  n  h  a  i  y  a
+                                    -8 -7 -6 -5 -4 -3 -2 -1
+
+             print(name[0 : 4])  -->  kanh
+             print(name[-1 : ])  -->  a
+
+
+             
+
+Indexing --> Indexing is the access one character in given string using index.
+
+    Syntax:
+            name[2]
+    
+    Example:
+            name = 'vansh'
+            print(name[2])  -->  n
+            print(name[-1])  -->  h
