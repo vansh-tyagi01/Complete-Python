@@ -1,5 +1,3 @@
-# List is a collection of different datatypes and it is Mutable.
-
 fruits = ['Mango','Apple','Orange','Pineapple']
 print("Fruits :",fruits)
 
