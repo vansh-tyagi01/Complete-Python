@@ -14,3 +14,12 @@ print(num)
 name = ['kanhiaya','payal']
 name.append('Arun')
 print(name)
+
+# List inside List
+
+lst = [1,2,3]
+new = [4,5,6]
+
+lst.append(new)
+
+print(lst)   #  [1,2,3,[4,5,6]]
